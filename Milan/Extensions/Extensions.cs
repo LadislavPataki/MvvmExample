@@ -1,7 +1,7 @@
 using System.Collections.Generic;
 using System.Collections.ObjectModel;
 
-namespace Milan.Extensions
+namespace MvvmExample.Extensions
 {
     public static class Extensions
     {

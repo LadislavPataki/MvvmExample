@@ -1,7 +1,7 @@
 ﻿using System.Collections.Generic;
-using Milan.Model;
+using MvvmExample.Model;
 
-namespace Milan.ViewModel
+namespace MvvmExample.Services
 {
     public interface IStudentService
     {

@@ -1,4 +1,4 @@
-namespace Milan.Model
+namespace MvvmExample.Model
 {
     public class Student
     {

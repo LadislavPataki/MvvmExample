@@ -1,7 +1,7 @@
 using System;
 using System.Windows.Input;
 
-namespace Milan.DelegateCommand
+namespace MvvmExample.DelegateCommand
 {
     public class DelegateCommand : ICommand
     {

@@ -1,9 +1,10 @@
 using System;
 using System.Collections.ObjectModel;
-using Milan.Extensions;
-using Milan.Model;
+using MvvmExample.Extensions;
+using MvvmExample.Model;
+using MvvmExample.Services;
 
-namespace Milan.ViewModel
+namespace MvvmExample.ViewModel
 {
     public class StudentViewModel : ViewModelBase.ViewModelBase
     {

@@ -1,7 +1,6 @@
-﻿using System.Linq;
-using Milan.Services;
+﻿using MvvmExample.Services;
 
-namespace Milan.ViewModel
+namespace MvvmExample.ViewModel
 {
     public class ViewModelLocator
     {
